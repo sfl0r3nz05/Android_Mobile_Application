@@ -27,8 +27,7 @@ android {
             abiFilters "armeabi-v7a", "arm64-v8a", "x86", "x86_64"
         }
         python {
-            version "3.10"
-            buildPython "python3"
+            buildPython "python"
             pip{
                 install "-r", "requirements.txt"
             }
