@@ -33,7 +33,17 @@ android {
         python {
             version "3.8"
             pip {
-                install "-r", "src/main/python/OSNMA/requirements.txt"
+                install "six"
+                install "pandas"
+                install "numpy"
+                install "bitstring"
+                install "ecdsa"
+                install "wrapt"
+                install "pycodestyle"
+                install "pydocstyle"
+                install "pytest"
+                install "pycryptodome"
+                install "protobuf"
             }
         }
     }
