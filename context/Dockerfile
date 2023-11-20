@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM brunneis/python:3.8.3-ubuntu-20.04
 
 ENV VERSION_TOOLS "8512546"
 
@@ -47,7 +47,3 @@ RUN mkdir -p /root/.android \
 
 ADD packages.txt /sdk
 RUN sdkmanager --package_file=/sdk/packages.txt
-
-RUN apt-get update
-RUN apt-get upgrade -y
-RUN apt-get install -y python3
