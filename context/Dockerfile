@@ -48,4 +48,4 @@ RUN mkdir -p /root/.android \
 ADD packages.txt /sdk
 RUN sdkmanager --package_file=/sdk/packages.txt
 
-RUN apt-get update && apt-get install -y python3.9 python3.9-dev python3.9-distutils
+RUN apt-get update && apt-get install -y python3.8 python3.8-dev python3.8-distutils

@@ -31,19 +31,9 @@ android {
             abiFilters "armeabi-v7a", "arm64-v8a", "x86", "x86_64"
         }
         python {
-            version "3.9"
+            version "3.8"
             pip {
-                install "six"
-                install "pandas"
-                install "numpy"
-                install "bitstring"
-                install "ecdsa"
-                install "wrapt"
-                install "pycodestyle"
-                install "pydocstyle"
-                install "pytest"
-                install "pycryptodome"
-                install "protobuf"
+                install "-r", "requirements.txt"
             }
         }
     }
