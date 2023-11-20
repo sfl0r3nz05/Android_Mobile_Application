@@ -18,6 +18,7 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
         python {
+            buildPython "python"
             pip {
                 install "six"
                 install "pandas"
