@@ -10,7 +10,7 @@ android {
     sourceSets {
         main {
             python {
-                srcDir "src/main/python"
+                srcDir "src/main/python/OSNMA"
             }
         }
     }
@@ -33,8 +33,17 @@ android {
         python {
             version "3.9"
             pip {
-                install "scipy"
-                install "requests==2.24.0"
+                install "six"
+                install "pandas"
+                install "numpy"
+                install "bitstring"
+                install "ecdsa"
+                install "wrapt"
+                install "pycodestyle"
+                install "pydocstyle"
+                install "pytest"
+                install "pycryptodome"
+                install "protobuf"
             }
         }
     }
