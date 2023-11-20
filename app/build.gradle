@@ -29,7 +29,7 @@ android {
         python {
             buildPython "python3"
             pip{
-                install "-r", "requirements.txt"
+                install "-r", "app/src/main/python/OSNMA/requirements.txt"
             }
         }
     }
