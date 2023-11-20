@@ -1,0 +1,45 @@
+stages:
+# - container_creation
+- build
+
+# container_creation:
+#   stage: container_creation
+#   tags:
+#     - s4g
+#   image:
+#     name: gcr.io/kaniko-project/executor:debug
+#     entrypoint: [""]
+#   script:
+#     - mkdir -p /kaniko/.docker
+#     - echo "{\"auths\":{\"${CI_REGISTRY}\":{\"auth\":\"$(printf "%s:%s" "${CI_REGISTRY_USER}" "${CI_REGISTRY_PASSWORD}" | base64 | tr -d '\n')\"}}}" > /kaniko/.docker/config.json
+#     - >-
+#       /kaniko/executor
+#       --context "${CI_PROJECT_DIR}/context"
+#       --dockerfile "${CI_PROJECT_DIR}/context/Dockerfile"
+#       --destination "${CI_REGISTRY_IMAGE}:${CI_COMMIT_SHORT_SHA}"
+# 
+# image: "${CI_REGISTRY_IMAGE}:${CI_COMMIT_SHORT_SHA}"
+
+image: jangrewe/gitlab-ci-android
+
+before_script:
+- export GRADLE_USER_HOME=$(pwd)/.gradle
+- chmod +x ./gradlew
+
+cache:
+  key: ${CI_PROJECT_ID}
+  paths:
+  - .gradle/
+
+build:
+  stage: build
+  tags:
+    - s4g
+  script:
+    - ./gradlew assembleDebug
+    - cp app/build/outputs/apk/debug/app-debug.apk app-debug.apk
+  artifacts:
+    paths:
+      - app-debug.apk
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
