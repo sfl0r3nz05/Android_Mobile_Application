@@ -60,7 +60,7 @@ Chaquopy is distributed as a plugin for Android’s Gradle-based build system.
         ...
         sourceSets {
             main {
-                python.srcDir "src/main/python"
+                python.srcDir "src/main/python/OSNMA"
             }
         }
         ...
