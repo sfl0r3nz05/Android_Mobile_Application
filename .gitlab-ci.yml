@@ -43,4 +43,4 @@ build:
     paths:
       - app-debug.apk
   rules:
-    - if: '$CI_COMMIT_BRANCH == "dev"'
+    - if: '$CI_COMMIT_BRANCH == "master"'

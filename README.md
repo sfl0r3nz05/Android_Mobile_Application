@@ -67,8 +67,10 @@ Chaquopy is distributed as a plugin for Android’s Gradle-based build system.
     }
     ```
 
-6. Set startup. If the app always uses Python, then call Python.start() from a location which is guaranteed to run exactly once per process, such as Application.onCreate(). Simply add the following attribute to the `<application>` element in `AndroidManifest.xml`:
+6. Set startup. If the app only sometimes uses Python, then call Python.start() after first checking whether it’s already been started::
 
     ```console
-    android:name="com.chaquo.python.android.PyApplication"
+    if (! Python.isStarted()) {
+        Python.start(new AndroidPlatform(context));
+    }
     ```
