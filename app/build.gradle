@@ -4,17 +4,7 @@ plugins {
     id 'com.chaquo.python'  // Must come after com.android.application
 }
 
-def REPO_ROOT = "../.."
-
 android {
-    sourceSets {
-        main {
-            python {
-                srcDir "src/main/python/OSNMA"
-            }
-        }
-    }
-
     namespace 'com.ceit.gpstrackingdemo'
     compileSdk 33
 
@@ -27,11 +17,7 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
-        ndk {
-            abiFilters "armeabi-v7a", "arm64-v8a", "x86", "x86_64"
-        }
         python {
-            version "3.8"
             pip {
                 install "six"
                 install "pandas"
@@ -44,6 +30,17 @@ android {
                 install "pytest"
                 install "pycryptodome"
                 install "protobuf"
+            }
+        }
+        ndk {
+            abiFilters "armeabi-v7a", "arm64-v8a", "x86", "x86_64"
+        }
+    }
+
+    sourceSets {
+        main {
+            python {
+                srcDir "src/main/python/OSNMA"
             }
         }
     }
