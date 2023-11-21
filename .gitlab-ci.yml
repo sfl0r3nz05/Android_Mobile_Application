@@ -20,7 +20,8 @@ stages:
 # 
 # image: "${CI_REGISTRY_IMAGE}:${CI_COMMIT_SHORT_SHA}"
 
-image: jangrewe/gitlab-ci-android
+#image: jangrewe/gitlab-ci-android
+image: sflorenz05/gitlab-ci-android:0.4
 
 before_script:
 - export GRADLE_USER_HOME=$(pwd)/.gradle
@@ -42,4 +43,4 @@ build:
     paths:
       - app-debug.apk
   rules:
-    - if: '$CI_COMMIT_BRANCH == "master"'
+    - if: '$CI_COMMIT_BRANCH == "dev"'
