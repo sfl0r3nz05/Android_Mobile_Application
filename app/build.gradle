@@ -28,7 +28,7 @@ android {
                 install "pydocstyle>=6.0.0"
                 install "numpy>=1.15.0"
                 install "pytest>=7.1.2"
-                install "pycryptodome==3.10.2"
+                install "pycryptodome==3.9.8"
                 install "protobuf>=4.21.0"
             }
         }
