@@ -19,17 +19,17 @@ android {
 
         python {
             pip {
-                install "six>=1.15.0"
-                install "bitstring>=3.1.7"
-                install "ecdsa>=0.16.1"
-                install "wrapt>=1.12.1"
-                install "pandas>=1.4.2"
-                install "pycodestyle>=2.7.0"
-                install "pydocstyle>=6.0.0"
-                install "numpy>=1.15.0"
-                install "pytest>=7.1.2"
+                install "six"
+                install "bitstring"
+                install "ecdsa"
+                install "wrapt"
+                install "pandas"
+                install "pycodestyle"
+                install "pydocstyle"
+                install "numpy"
+                install "pytest"
                 install "pycryptodome"
-                install "protobuf>=4.21.0"
+                install "protobuf"
             }
         }
         ndk {

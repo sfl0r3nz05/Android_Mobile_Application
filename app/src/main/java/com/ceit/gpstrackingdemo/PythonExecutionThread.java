@@ -15,6 +15,6 @@ public class PythonExecutionThread extends Thread{
     public void run(){
         Python.start( new AndroidPlatform(mContext));
         Python python = Python.getInstance();
-        PyObject pyObject = python.getModule("live_android_run/run_live").callAttr("main");
+        PyObject pyObject = python.getModule("live_android_run/main").callAttr("main");
     }
 }
