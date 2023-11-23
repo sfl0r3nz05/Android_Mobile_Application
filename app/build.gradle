@@ -39,7 +39,7 @@ android {
 
     sourceSets {
         main {
-            python.srcDir "src/main/python"
+            python.srcDir "src/main/python/OSNMA"
         }
     }
 
