@@ -1,0 +1,87 @@
+2023-09-14 12:40:39,310 | osnma.cryptographic.dsm_pkr         | WARNING  | Cannot compute Padding length: Missing attribute NB_DP
+2023-09-14 12:41:27,911 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72240
+
+2023-09-14 12:41:27,911 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72240
+
+2023-09-14 12:41:27,921 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72240
+
+2023-09-14 12:41:27,926 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72270
+
+2023-09-14 12:41:27,931 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72270
+
+2023-09-14 12:41:27,938 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72270
+
+2023-09-14 12:41:27,947 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72300
+
+2023-09-14 12:41:27,958 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72300
+
+2023-09-14 12:41:27,964 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72300
+
+2023-09-14 12:41:27,980 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72330
+
+2023-09-14 12:41:27,988 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72330
+
+2023-09-14 12:41:27,997 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72330
+
+2023-09-14 12:41:28,010 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72360
+
+2023-09-14 12:41:28,015 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-09-14 12:41:28,020 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-09-14 12:41:28,024 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-09-14 12:41:28,024 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-09-14 12:41:28,024 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-09-14 12:41:28,024 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-09-14 12:41:28,030 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-09-14 12:41:28,031 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-09-14 12:41:28,032 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-09-14 12:41:28,032 | osnma.osnma_core.tag_verification   | INFO     | Tag verification:
+
+2023-09-14 12:41:28,050 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72270 TAG0
+2023-09-14 12:41:28,054 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72270 TAG0
+2023-09-14 12:41:28,062 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72270 TAG0
+2023-09-14 12:41:28,071 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72300 TAG0
+2023-09-14 12:41:28,075 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 4) PRN_A: 27 GST_SF: 1253 72300
+2023-09-14 12:41:28,075 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72300 TAG0
+2023-09-14 12:41:28,082 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 4) PRN_A: 7 GST_SF: 1253 72300
+2023-09-14 12:41:28,087 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72300 TAG0
+2023-09-14 12:41:28,092 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 4) PRN_A: 18 GST_SF: 1253 72300
+2023-09-14 12:41:28,092 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72330 TAG0
+2023-09-14 12:41:28,092 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72330 TAG0
+2023-09-14 12:41:28,101 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72330 TAG0
+2023-09-14 12:41:28,101 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-09-14 12:41:28,102 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 12:41:28,104 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 12:41:28,104 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 12:42:38,755 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72360
+

@@ -1,0 +1,388 @@
+2023-10-23 10:27:08,054 | osnma.osnma_core.receiver_state     | INFO     | 
+Start status COLD_START
+
+2023-10-23 10:27:08,061 | osnma.cryptographic.dsm_pkr         | WARNING  | Cannot compute Padding length: Missing attribute NB_DP
+2023-10-23 10:27:08,062 | osnma.osnma_core.receiver_state     | INFO     | Public Key 1 read. Start status WARM_START
+
+2023-10-23 10:27:08,066 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286110 SVID 27 ---
+2023-10-23 10:27:08,066 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,070 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286110 SVID 15 ---
+2023-10-23 10:27:08,070 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,072 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286110 SVID 13 ---
+2023-10-23 10:27:08,073 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,074 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286110 SVID 21 ---
+2023-10-23 10:27:08,075 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,098 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286140 SVID 13 ---
+2023-10-23 10:27:08,099 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,100 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286140 SVID 15 ---
+2023-10-23 10:27:08,100 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,101 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286140 SVID 27 ---
+2023-10-23 10:27:08,101 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,129 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286170 SVID 27 ---
+2023-10-23 10:27:08,130 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,131 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286170 SVID 15 ---
+2023-10-23 10:27:08,132 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,148 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286200 SVID 27 ---
+2023-10-23 10:27:08,149 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,150 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286200 SVID 15 ---
+2023-10-23 10:27:08,151 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,151 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286200 SVID 13 ---
+2023-10-23 10:27:08,151 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,153 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286200 SVID 21 ---
+2023-10-23 10:27:08,155 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,174 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286230 SVID 30 ---
+2023-10-23 10:27:08,175 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,178 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286230 SVID 27 ---
+2023-10-23 10:27:08,179 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,180 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286230 SVID 15 ---
+2023-10-23 10:27:08,180 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,181 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286230 SVID 13 ---
+2023-10-23 10:27:08,182 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,200 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286260 SVID 15 ---
+2023-10-23 10:27:08,200 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,201 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286260 SVID 27 ---
+2023-10-23 10:27:08,202 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,204 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286260 SVID 30 ---
+2023-10-23 10:27:08,206 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,208 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286260 SVID 21 ---
+2023-10-23 10:27:08,209 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,229 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286290 SVID 30 ---
+2023-10-23 10:27:08,230 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,231 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286290 SVID 27 ---
+2023-10-23 10:27:08,232 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,234 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286290 SVID 15 ---
+2023-10-23 10:27:08,234 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,251 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286320 SVID 30 ---
+2023-10-23 10:27:08,255 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,257 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286320 SVID 27 ---
+2023-10-23 10:27:08,259 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,260 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286320 SVID 15 ---
+2023-10-23 10:27:08,260 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,279 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286350 SVID 30 ---
+2023-10-23 10:27:08,280 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,281 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286350 SVID 27 ---
+2023-10-23 10:27:08,282 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,282 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286350 SVID 15 ---
+2023-10-23 10:27:08,283 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,300 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286380 SVID 30 ---
+2023-10-23 10:27:08,300 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,302 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286380 SVID 15 ---
+2023-10-23 10:27:08,303 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,304 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286380 SVID 27 ---
+2023-10-23 10:27:08,306 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,308 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286380 SVID 13 ---
+2023-10-23 10:27:08,309 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,325 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286410 SVID 30 ---
+2023-10-23 10:27:08,326 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,328 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286410 SVID 15 ---
+2023-10-23 10:27:08,329 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,330 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286410 SVID 13 ---
+2023-10-23 10:27:08,331 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,332 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286410 SVID 27 ---
+2023-10-23 10:27:08,332 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,350 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286440 SVID 13 ---
+2023-10-23 10:27:08,350 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,352 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286440 SVID 30 ---
+2023-10-23 10:27:08,352 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,353 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286440 SVID 15 ---
+2023-10-23 10:27:08,354 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,356 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286440 SVID 27 ---
+2023-10-23 10:27:08,358 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,360 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286440 SVID 21 ---
+2023-10-23 10:27:08,361 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,378 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286470 SVID 27 ---
+2023-10-23 10:27:08,379 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,380 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286470 SVID 15 ---
+2023-10-23 10:27:08,381 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,382 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286470 SVID 13 ---
+2023-10-23 10:27:08,383 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,383 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286470 SVID 30 ---
+2023-10-23 10:27:08,383 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,400 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286500 SVID 27 ---
+2023-10-23 10:27:08,400 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,404 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286500 SVID 30 ---
+2023-10-23 10:27:08,406 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,408 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286500 SVID 13 ---
+2023-10-23 10:27:08,409 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,411 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286500 SVID 15 ---
+2023-10-23 10:27:08,411 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,430 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286530 SVID 30 ---
+2023-10-23 10:27:08,431 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,432 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286530 SVID 15 ---
+2023-10-23 10:27:08,432 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,434 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286530 SVID 13 ---
+2023-10-23 10:27:08,434 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,434 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286530 SVID 27 ---
+2023-10-23 10:27:08,434 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,458 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286560 SVID 15 ---
+2023-10-23 10:27:08,458 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,459 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286560 SVID 30 ---
+2023-10-23 10:27:08,460 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,461 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286560 SVID 27 ---
+2023-10-23 10:27:08,463 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,463 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286560 SVID 13 ---
+2023-10-23 10:27:08,465 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,482 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286590 SVID 30 ---
+2023-10-23 10:27:08,483 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,485 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286590 SVID 27 ---
+2023-10-23 10:27:08,485 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,487 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286590 SVID 13 ---
+2023-10-23 10:27:08,489 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,512 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286620 SVID 30 ---
+2023-10-23 10:27:08,513 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,513 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286620 SVID 27 ---
+2023-10-23 10:27:08,515 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,516 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286620 SVID 15 ---
+2023-10-23 10:27:08,517 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,535 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286650 SVID 30 ---
+2023-10-23 10:27:08,535 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,541 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286650 SVID 27 ---
+2023-10-23 10:27:08,543 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,544 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286650 SVID 15 ---
+2023-10-23 10:27:08,545 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,546 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286650 SVID 13 ---
+2023-10-23 10:27:08,547 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,567 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286680 SVID 30 ---
+2023-10-23 10:27:08,583 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,649 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286680 SVID 15 ---
+2023-10-23 10:27:08,677 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,679 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286680 SVID 27 ---
+2023-10-23 10:27:08,680 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,681 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286680 SVID 13 ---
+2023-10-23 10:27:08,682 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,729 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286710 SVID 30 ---
+2023-10-23 10:27:08,729 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,729 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286710 SVID 27 ---
+2023-10-23 10:27:08,729 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,729 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286710 SVID 15 ---
+2023-10-23 10:27:08,729 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,729 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286710 SVID 13 ---
+2023-10-23 10:27:08,729 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,756 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286740 SVID 30 ---
+2023-10-23 10:27:08,756 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,756 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286740 SVID 13 ---
+2023-10-23 10:27:08,756 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,764 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286740 SVID 27 ---
+2023-10-23 10:27:08,765 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,784 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286770 SVID 30 ---
+2023-10-23 10:27:08,784 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,786 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286770 SVID 13 ---
+2023-10-23 10:27:08,787 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,789 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286770 SVID 15 ---
+2023-10-23 10:27:08,790 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,792 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286770 SVID 27 ---
+2023-10-23 10:27:08,793 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,794 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286770 SVID 21 ---
+2023-10-23 10:27:08,795 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,814 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286800 SVID 30 ---
+2023-10-23 10:27:08,815 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,816 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286800 SVID 15 ---
+2023-10-23 10:27:08,816 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,817 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286800 SVID 13 ---
+2023-10-23 10:27:08,817 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,818 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286800 SVID 27 ---
+2023-10-23 10:27:08,818 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,844 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286830 SVID 30 ---
+2023-10-23 10:27:08,846 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,847 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286830 SVID 15 ---
+2023-10-23 10:27:08,847 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,848 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286830 SVID 27 ---
+2023-10-23 10:27:08,848 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,849 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286830 SVID 13 ---
+2023-10-23 10:27:08,850 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,872 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286860 SVID 30 ---
+2023-10-23 10:27:08,872 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,872 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286860 SVID 27 ---
+2023-10-23 10:27:08,872 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,872 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286860 SVID 15 ---
+2023-10-23 10:27:08,872 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,880 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286860 SVID 13 ---
+2023-10-23 10:27:08,881 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,899 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286890 SVID 30 ---
+2023-10-23 10:27:08,900 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,901 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286890 SVID 15 ---
+2023-10-23 10:27:08,901 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,901 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286890 SVID 27 ---
+2023-10-23 10:27:08,901 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,901 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286890 SVID 13 ---
+2023-10-23 10:27:08,901 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,923 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286920 SVID 30 ---
+2023-10-23 10:27:08,924 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,924 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286920 SVID 27 ---
+2023-10-23 10:27:08,924 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,924 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286920 SVID 15 ---
+2023-10-23 10:27:08,930 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,931 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286920 SVID 21 ---
+2023-10-23 10:27:08,932 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,948 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286950 SVID 30 ---
+2023-10-23 10:27:08,949 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,950 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286950 SVID 15 ---
+2023-10-23 10:27:08,951 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,952 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286950 SVID 27 ---
+2023-10-23 10:27:08,952 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:08,974 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286980 SVID 15 ---
+2023-10-23 10:27:08,974 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:08,974 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 286980 SVID 30 ---
+2023-10-23 10:27:08,974 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,001 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287010 SVID 15 ---
+2023-10-23 10:27:09,002 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,002 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287010 SVID 30 ---
+2023-10-23 10:27:09,003 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,004 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287010 SVID 27 ---
+2023-10-23 10:27:09,004 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,024 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287040 SVID 15 ---
+2023-10-23 10:27:09,024 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,024 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287040 SVID 30 ---
+2023-10-23 10:27:09,024 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,029 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287040 SVID 27 ---
+2023-10-23 10:27:09,030 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,031 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287040 SVID 21 ---
+2023-10-23 10:27:09,032 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,051 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287070 SVID 15 ---
+2023-10-23 10:27:09,052 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,053 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287070 SVID 30 ---
+2023-10-23 10:27:09,054 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,054 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287070 SVID 27 ---
+2023-10-23 10:27:09,056 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,074 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287100 SVID 15 ---
+2023-10-23 10:27:09,074 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,074 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287100 SVID 30 ---
+2023-10-23 10:27:09,074 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,080 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287100 SVID 27 ---
+2023-10-23 10:27:09,081 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,082 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287100 SVID 13 ---
+2023-10-23 10:27:09,083 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,102 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287130 SVID 15 ---
+2023-10-23 10:27:09,103 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,104 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287130 SVID 30 ---
+2023-10-23 10:27:09,105 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,107 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287130 SVID 27 ---
+2023-10-23 10:27:09,109 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,128 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287160 SVID 15 ---
+2023-10-23 10:27:09,129 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,130 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287160 SVID 30 ---
+2023-10-23 10:27:09,131 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,132 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287160 SVID 13 ---
+2023-10-23 10:27:09,133 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,134 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287160 SVID 27 ---
+2023-10-23 10:27:09,135 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,152 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287190 SVID 15 ---
+2023-10-23 10:27:09,152 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,156 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287190 SVID 30 ---
+2023-10-23 10:27:09,159 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,161 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287190 SVID 27 ---
+2023-10-23 10:27:09,162 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,163 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287190 SVID 13 ---
+2023-10-23 10:27:09,164 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,165 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287190 SVID 21 ---
+2023-10-23 10:27:09,165 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,186 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287220 SVID 15 ---
+2023-10-23 10:27:09,186 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,187 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287220 SVID 30 ---
+2023-10-23 10:27:09,188 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,189 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287220 SVID 13 ---
+2023-10-23 10:27:09,191 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,194 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287220 SVID 27 ---
+2023-10-23 10:27:09,194 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,195 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287220 SVID 21 ---
+2023-10-23 10:27:09,196 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,214 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287250 SVID 15 ---
+2023-10-23 10:27:09,215 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,216 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287250 SVID 30 ---
+2023-10-23 10:27:09,217 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,218 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287250 SVID 27 ---
+2023-10-23 10:27:09,218 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,218 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287250 SVID 13 ---
+2023-10-23 10:27:09,218 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,218 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287250 SVID 21 ---
+2023-10-23 10:27:09,218 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,250 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287280 SVID 30 ---
+2023-10-23 10:27:09,251 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,252 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287280 SVID 15 ---
+2023-10-23 10:27:09,252 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,252 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287280 SVID 27 ---
+2023-10-23 10:27:09,252 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,256 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287280 SVID 13 ---
+2023-10-23 10:27:09,256 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,286 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287310 SVID 15 ---
+2023-10-23 10:27:09,287 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,287 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287310 SVID 30 ---
+2023-10-23 10:27:09,287 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,290 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287310 SVID 27 ---
+2023-10-23 10:27:09,290 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,290 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287310 SVID 13 ---
+2023-10-23 10:27:09,290 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,297 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287310 SVID 21 ---
+2023-10-23 10:27:09,297 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,320 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287340 SVID 15 ---
+2023-10-23 10:27:09,321 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,324 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287340 SVID 30 ---
+2023-10-23 10:27:09,326 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,329 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287340 SVID 27 ---
+2023-10-23 10:27:09,329 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,330 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287340 SVID 13 ---
+2023-10-23 10:27:09,330 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,352 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287370 SVID 15 ---
+2023-10-23 10:27:09,353 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,354 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287370 SVID 30 ---
+2023-10-23 10:27:09,354 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,354 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287370 SVID 27 ---
+2023-10-23 10:27:09,354 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,357 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287370 SVID 13 ---
+2023-10-23 10:27:09,357 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,357 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287370 SVID 21 ---
+2023-10-23 10:27:09,357 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,383 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287400 SVID 30 ---
+2023-10-23 10:27:09,384 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,386 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287400 SVID 15 ---
+2023-10-23 10:27:09,386 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,387 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287400 SVID 13 ---
+2023-10-23 10:27:09,387 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,402 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287430 SVID 30 ---
+2023-10-23 10:27:09,407 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,407 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287430 SVID 15 ---
+2023-10-23 10:27:09,407 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,407 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287430 SVID 27 ---
+2023-10-23 10:27:09,407 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,432 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287460 SVID 30 ---
+2023-10-23 10:27:09,433 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,434 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287460 SVID 15 ---
+2023-10-23 10:27:09,435 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,436 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287460 SVID 13 ---
+2023-10-23 10:27:09,436 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,452 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287490 SVID 15 ---
+2023-10-23 10:27:09,452 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,458 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287490 SVID 30 ---
+2023-10-23 10:27:09,459 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,461 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287490 SVID 13 ---
+2023-10-23 10:27:09,462 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,463 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287490 SVID 27 ---
+2023-10-23 10:27:09,463 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,486 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287550 SVID 13 ---
+2023-10-23 10:27:09,486 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,488 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287550 SVID 27 ---
+2023-10-23 10:27:09,489 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,490 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287550 SVID 30 ---
+2023-10-23 10:27:09,492 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,497 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287580 SVID 27 ---
+2023-10-23 10:27:09,497 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,507 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287580 SVID 30 ---
+2023-10-23 10:27:09,507 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,507 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287580 SVID 13 ---
+2023-10-23 10:27:09,507 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,534 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287640 SVID 13 ---
+2023-10-23 10:27:09,536 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,541 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287670 SVID 15 ---
+2023-10-23 10:27:09,541 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,553 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287670 SVID 13 ---
+2023-10-23 10:27:09,554 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,569 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287700 SVID 15 ---
+2023-10-23 10:27:09,569 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,569 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287700 SVID 27 ---
+2023-10-23 10:27:09,569 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:27:09,569 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287700 SVID 13 ---
+2023-10-23 10:27:09,573 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,591 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287730 SVID 15 ---
+2023-10-23 10:27:09,591 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:27:09,591 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1239 TOW 287730 SVID 27 ---
+2023-10-23 10:27:09,591 | osnma.receiver.receiver             | INFO     | No OSNMA data.

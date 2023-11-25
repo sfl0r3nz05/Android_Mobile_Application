@@ -1,0 +1,6 @@
+2023-10-20 14:58:35,470 | osnma.osnma_core.receiver_state     | INFO     | 
+Start status COLD_START
+
+2023-10-20 14:58:35,476 | osnma.cryptographic.dsm_pkr         | WARNING  | Cannot compute Padding length: Missing attribute NB_DP
+2023-10-20 14:58:35,477 | osnma.osnma_core.receiver_state     | INFO     | Public Key 1 read. Start status WARM_START
+

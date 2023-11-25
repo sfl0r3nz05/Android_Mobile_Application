@@ -1,0 +1,59 @@
+2023-09-14 12:42:51,404 | osnma.cryptographic.dsm_pkr         | WARNING  | Cannot compute Padding length: Missing attribute NB_DP
+2023-09-14 12:43:22,464 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-09-14 12:43:22,466 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-09-14 12:43:22,469 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-09-14 12:43:22,471 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-09-14 12:43:22,473 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-09-14 12:43:22,475 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-09-14 12:43:22,477 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-09-14 12:43:22,478 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-09-14 12:43:22,480 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-09-14 12:43:22,481 | osnma.osnma_core.tag_verification   | INFO     | Tag verification:
+
+2023-09-14 12:43:22,500 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72270 TAG0
+2023-09-14 12:43:22,503 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72270 TAG0
+2023-09-14 12:43:22,513 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72270 TAG0
+2023-09-14 12:43:22,521 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72300 TAG0
+2023-09-14 12:43:22,521 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 4) PRN_A: 27 GST_SF: 1253 72300
+2023-09-14 12:43:22,528 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72300 TAG0
+2023-09-14 12:43:22,535 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 4) PRN_A: 7 GST_SF: 1253 72300
+2023-09-14 12:43:22,539 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72300 TAG0
+2023-09-14 12:43:22,541 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 4) PRN_A: 18 GST_SF: 1253 72300
+2023-09-14 12:43:22,544 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72330 TAG0
+2023-09-14 12:43:22,545 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72330 TAG0
+2023-09-14 12:43:22,548 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72330 TAG0
+2023-09-14 12:43:22,549 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-09-14 12:43:22,549 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 12:43:22,551 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 12:43:22,551 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+

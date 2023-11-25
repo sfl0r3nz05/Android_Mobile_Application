@@ -1,0 +1,180 @@
+2023-10-23 10:26:11,542 | osnma.osnma_core.receiver_state     | INFO     | 
+Start status COLD_START
+
+2023-10-23 10:26:11,553 | osnma.cryptographic.dsm_pkr         | WARNING  | Cannot compute Padding length: Missing attribute NB_DP
+2023-10-23 10:26:11,554 | osnma.osnma_core.receiver_state     | INFO     | Public Key 1 read. Start status WARM_START
+
+2023-10-23 10:26:13,630 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217140 SVID 31 ---
+2023-10-23 10:26:13,632 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:13,633 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217140 SVID 8 ---
+2023-10-23 10:26:17,587 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:26:17,590 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217140 SVID 13 ---
+2023-10-23 10:26:17,591 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:17,593 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217140 SVID 26 ---
+2023-10-23 10:26:17,593 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:17,633 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217170 SVID 31 ---
+2023-10-23 10:26:17,634 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:17,634 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217170 SVID 26 ---
+2023-10-23 10:26:17,634 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:17,634 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217170 SVID 8 ---
+2023-10-23 10:26:22,100 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:26:22,105 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217170 SVID 13 ---
+2023-10-23 10:26:22,105 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,188 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217200 SVID 31 ---
+2023-10-23 10:26:22,238 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,261 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217200 SVID 8 ---
+2023-10-23 10:26:22,268 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-23 10:26:22,272 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217200 SVID 26 ---
+2023-10-23 10:26:22,272 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,337 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217230 SVID 31 ---
+2023-10-23 10:26:22,337 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,337 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217230 SVID 26 ---
+2023-10-23 10:26:22,337 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,371 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217260 SVID 31 ---
+2023-10-23 10:26:22,371 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,373 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217260 SVID 26 ---
+2023-10-23 10:26:22,373 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,401 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217290 SVID 31 ---
+2023-10-23 10:26:22,402 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,404 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217290 SVID 26 ---
+2023-10-23 10:26:22,405 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,427 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217320 SVID 31 ---
+2023-10-23 10:26:22,428 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,429 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217320 SVID 26 ---
+2023-10-23 10:26:22,430 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,454 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217350 SVID 31 ---
+2023-10-23 10:26:22,455 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,458 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217350 SVID 26 ---
+2023-10-23 10:26:22,459 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,480 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217380 SVID 31 ---
+2023-10-23 10:26:22,480 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,485 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217380 SVID 26 ---
+2023-10-23 10:26:22,487 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,517 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217410 SVID 33 ---
+2023-10-23 10:26:22,519 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,521 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217410 SVID 31 ---
+2023-10-23 10:26:22,522 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,523 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217410 SVID 26 ---
+2023-10-23 10:26:22,524 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,555 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217440 SVID 33 ---
+2023-10-23 10:26:22,556 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,558 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217440 SVID 31 ---
+2023-10-23 10:26:22,559 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,560 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217440 SVID 26 ---
+2023-10-23 10:26:22,560 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,595 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217470 SVID 33 ---
+2023-10-23 10:26:22,596 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,597 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217470 SVID 31 ---
+2023-10-23 10:26:22,597 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,597 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217470 SVID 26 ---
+2023-10-23 10:26:22,597 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,644 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217500 SVID 33 ---
+2023-10-23 10:26:22,644 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,644 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217500 SVID 31 ---
+2023-10-23 10:26:22,644 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,652 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217500 SVID 26 ---
+2023-10-23 10:26:22,655 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,694 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217530 SVID 33 ---
+2023-10-23 10:26:22,695 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,696 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217530 SVID 31 ---
+2023-10-23 10:26:22,697 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,698 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217530 SVID 26 ---
+2023-10-23 10:26:22,698 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,730 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217560 SVID 33 ---
+2023-10-23 10:26:22,730 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,732 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217560 SVID 31 ---
+2023-10-23 10:26:22,733 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,735 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217560 SVID 26 ---
+2023-10-23 10:26:22,737 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,775 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217590 SVID 33 ---
+2023-10-23 10:26:22,775 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,775 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217590 SVID 31 ---
+2023-10-23 10:26:22,775 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,775 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217590 SVID 26 ---
+2023-10-23 10:26:22,775 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,813 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217620 SVID 33 ---
+2023-10-23 10:26:22,813 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,815 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217620 SVID 31 ---
+2023-10-23 10:26:22,815 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,817 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217620 SVID 26 ---
+2023-10-23 10:26:22,819 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,856 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217650 SVID 33 ---
+2023-10-23 10:26:22,856 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,856 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217650 SVID 31 ---
+2023-10-23 10:26:22,856 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,868 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217650 SVID 26 ---
+2023-10-23 10:26:22,870 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,907 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217680 SVID 33 ---
+2023-10-23 10:26:22,907 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,909 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217680 SVID 31 ---
+2023-10-23 10:26:22,909 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,909 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217680 SVID 26 ---
+2023-10-23 10:26:22,909 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,953 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217710 SVID 33 ---
+2023-10-23 10:26:22,955 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,956 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217710 SVID 31 ---
+2023-10-23 10:26:22,957 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,958 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217710 SVID 26 ---
+2023-10-23 10:26:22,958 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,995 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217740 SVID 33 ---
+2023-10-23 10:26:22,996 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:22,996 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217740 SVID 26 ---
+2023-10-23 10:26:22,996 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,032 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217770 SVID 33 ---
+2023-10-23 10:26:23,034 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,036 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217770 SVID 26 ---
+2023-10-23 10:26:23,038 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,040 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217770 SVID 24 ---
+2023-10-23 10:26:23,040 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,075 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217800 SVID 33 ---
+2023-10-23 10:26:23,076 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,077 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217800 SVID 26 ---
+2023-10-23 10:26:23,078 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,114 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217830 SVID 33 ---
+2023-10-23 10:26:23,114 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,116 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217830 SVID 26 ---
+2023-10-23 10:26:23,116 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,117 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217830 SVID 24 ---
+2023-10-23 10:26:23,118 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,163 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217860 SVID 33 ---
+2023-10-23 10:26:23,163 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,164 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217860 SVID 26 ---
+2023-10-23 10:26:23,165 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,166 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217860 SVID 24 ---
+2023-10-23 10:26:23,166 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,207 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217890 SVID 33 ---
+2023-10-23 10:26:23,208 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,209 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217890 SVID 26 ---
+2023-10-23 10:26:23,210 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,211 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217890 SVID 24 ---
+2023-10-23 10:26:23,211 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,244 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217920 SVID 33 ---
+2023-10-23 10:26:23,244 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,247 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217920 SVID 26 ---
+2023-10-23 10:26:23,247 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,248 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217920 SVID 24 ---
+2023-10-23 10:26:23,249 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,286 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217950 SVID 33 ---
+2023-10-23 10:26:23,287 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,290 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217950 SVID 26 ---
+2023-10-23 10:26:23,291 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,293 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217950 SVID 24 ---
+2023-10-23 10:26:23,295 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,330 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217980 SVID 33 ---
+2023-10-23 10:26:23,331 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,333 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217980 SVID 26 ---
+2023-10-23 10:26:23,333 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,336 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 217980 SVID 24 ---
+2023-10-23 10:26:23,337 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,375 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 218010 SVID 31 ---
+2023-10-23 10:26:23,375 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,375 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 218010 SVID 26 ---
+2023-10-23 10:26:23,375 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,375 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 218010 SVID 24 ---
+2023-10-23 10:26:23,375 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,417 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 218040 SVID 31 ---
+2023-10-23 10:26:23,417 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,418 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 218040 SVID 26 ---
+2023-10-23 10:26:23,420 | osnma.receiver.receiver             | INFO     | No OSNMA data.
+2023-10-23 10:26:23,426 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1242 TOW 218100 SVID 31 ---
+2023-10-23 10:26:23,427 | osnma.receiver.receiver             | INFO     | No OSNMA data.

@@ -1,0 +1,44 @@
+2023-10-16 16:40:55,193 | osnma.osnma_core.receiver_state     | INFO     | 
+Start status COLD_START
+
+2023-10-16 16:40:55,198 | osnma.cryptographic.dsm_pkr         | WARNING  | Cannot compute Padding length: Missing attribute NB_DP
+2023-10-16 16:40:55,199 | osnma.osnma_core.receiver_state     | INFO     | Public Key 1 read. Start status WARM_START
+
+2023-10-16 16:40:56,907 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139269 SVID 30 --- 9 WT 8
+2023-10-16 16:40:56,916 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139269 SVID 2 --- 9 WT 8
+2023-10-16 16:40:56,947 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139269 SVID 27 --- 9 WT 8
+2023-10-16 16:40:56,950 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139269 SVID 8 --- 9 WT 8
+2023-10-16 16:40:56,952 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139269 SVID 33 --- 9 WT 8
+2023-10-16 16:40:56,964 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139269 SVID 12 --- 9 WT 8
+2023-10-16 16:40:57,004 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139269 SVID 7 --- 9 WT 8
+2023-10-16 16:40:57,006 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139269 SVID 26 --- 9 WT 8
+2023-10-16 16:40:59,069 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139271 SVID 7 --- 11 WT 17
+2023-10-16 16:40:59,087 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139271 SVID 26 --- 11 WT 17
+2023-10-16 16:40:59,090 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139271 SVID 30 --- 11 WT 17
+2023-10-16 16:40:59,091 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139271 SVID 2 --- 11 WT 17
+2023-10-16 16:40:59,104 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139271 SVID 27 --- 11 WT 17
+2023-10-16 16:40:59,137 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139271 SVID 8 --- 11 WT 17
+2023-10-16 16:40:59,139 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139271 SVID 33 --- 11 WT 17
+2023-10-16 16:40:59,151 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139271 SVID 12 --- 11 WT 0
+2023-10-16 16:41:01,325 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139273 SVID 30 --- 13 WT 19
+2023-10-16 16:41:01,325 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139273 SVID 2 --- 13 WT 19
+2023-10-16 16:41:01,342 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139273 SVID 27 --- 13 WT 19
+2023-10-16 16:41:01,375 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139273 SVID 8 --- 13 WT 19
+2023-10-16 16:41:01,377 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139273 SVID 33 --- 13 WT 19
+2023-10-16 16:41:01,379 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139273 SVID 12 --- 13 WT 0
+2023-10-16 16:41:01,381 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139273 SVID 7 --- 13 WT 19
+2023-10-16 16:41:01,406 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139273 SVID 26 --- 13 WT 19
+2023-10-16 16:41:03,314 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139275 SVID 30 --- 15 WT 16
+2023-10-16 16:41:03,314 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139275 SVID 2 --- 15 WT 16
+2023-10-16 16:41:03,345 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139275 SVID 27 --- 15 WT 16
+2023-10-16 16:41:03,348 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139275 SVID 8 --- 15 WT 16
+2023-10-16 16:41:03,365 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139275 SVID 33 --- 15 WT 16
+2023-10-16 16:41:03,367 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139275 SVID 12 --- 15 WT 0
+2023-10-16 16:41:03,405 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139275 SVID 7 --- 15 WT 16
+2023-10-16 16:41:03,405 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139275 SVID 26 --- 15 WT 16
+2023-10-16 16:41:05,322 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139277 SVID 7 --- 17 WT 0
+2023-10-16 16:41:05,332 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139277 SVID 26 --- 17 WT 0
+2023-10-16 16:41:05,368 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139277 SVID 30 --- 17 WT 0
+2023-10-16 16:41:05,370 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139277 SVID 2 --- 17 WT 0
+2023-10-16 16:41:05,383 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139277 SVID 27 --- 17 WT 0
+2023-10-16 16:41:05,385 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1260 TOW 139277 SVID 8 --- 17 WT 0

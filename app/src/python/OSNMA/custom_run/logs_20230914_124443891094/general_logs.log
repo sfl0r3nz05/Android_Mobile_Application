@@ -1,0 +1,39 @@
+2023-09-14 12:44:43,896 | osnma.cryptographic.dsm_pkr         | WARNING  | Cannot compute Padding length: Missing attribute NB_DP
+2023-09-14 12:44:46,321 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-09-14 12:44:46,321 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-09-14 12:44:46,328 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-09-14 12:44:46,330 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-09-14 12:44:46,336 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-09-14 12:44:46,338 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-09-14 12:44:46,340 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-09-14 12:44:46,341 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-09-14 12:44:46,342 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-09-14 12:46:07,889 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-09-14 12:46:07,889 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 12:46:07,889 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 12:46:07,889 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 12:46:13,241 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-09-14 12:46:17,648 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-09-14 12:46:28,120 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72360 TAGS ADDED: 0

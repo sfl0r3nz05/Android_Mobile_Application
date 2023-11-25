@@ -1,0 +1,285 @@
+2023-10-13 12:31:51,764 | osnma.osnma_core.receiver_state     | INFO     | 
+Start status COLD_START
+
+2023-10-13 12:31:51,768 | osnma.cryptographic.dsm_pkr         | WARNING  | Cannot compute Padding length: Missing attribute NB_DP
+2023-10-13 12:31:51,769 | osnma.osnma_core.receiver_state     | INFO     | Public Key 1 read. Start status WARM_START
+
+2023-10-13 12:37:58,613 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72240 SVID 27 ---
+2023-10-13 12:39:06,043 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-13 12:39:06,050 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72240 SVID 7 ---
+2023-10-13 12:39:07,996 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-13 12:39:08,002 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72240 SVID 18 ---
+2023-10-13 12:39:08,940 | osnma.receiver.receiver             | WARNING  | Broken HKROOT Subframe. Regenerating HKROOT and processing MACK if active.
+2023-10-13 12:39:08,977 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72270 SVID 27 ---
+2023-10-13 12:39:09,958 | osnma.osnma_core.receiver_state     | INFO     | Received block 4 from DSM ID 10.
+2023-10-13 12:39:09,958 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([4])
+
+2023-10-13 12:39:09,958 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72270 SVID 7 ---
+2023-10-13 12:47:17,332 | osnma.osnma_core.receiver_state     | INFO     | Received block 0 from DSM ID 10.
+2023-10-13 12:47:17,332 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([4, 0])
+
+2023-10-13 12:47:17,332 | osnma.osnma_core.receiver_state     | INFO     | DSM ID 10 number of blocks: 8
+
+2023-10-13 12:47:17,332 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72270 SVID 18 ---
+2023-10-13 12:47:17,339 | osnma.osnma_core.receiver_state     | INFO     | Received block 3 from DSM ID 10.
+2023-10-13 12:47:17,339 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([4, 0, 3])
+
+2023-10-13 12:47:17,378 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72300 SVID 27 ---
+2023-10-13 12:47:17,379 | osnma.osnma_core.receiver_state     | INFO     | Received block 5 from DSM ID 10.
+2023-10-13 12:47:17,380 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([4, 0, 3, 5])
+
+2023-10-13 12:47:17,382 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72300 SVID 7 ---
+2023-10-13 12:47:17,383 | osnma.osnma_core.receiver_state     | INFO     | Received block 1 from DSM ID 10.
+2023-10-13 12:47:17,384 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([4, 0, 3, 5, 1])
+
+2023-10-13 12:47:17,385 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72300 SVID 18 ---
+2023-10-13 12:47:17,387 | osnma.osnma_core.receiver_state     | INFO     | Received block 4 from DSM ID 10.
+2023-10-13 12:47:17,388 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([4, 0, 3, 5, 1])
+
+2023-10-13 12:47:17,429 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72330 SVID 27 ---
+2023-10-13 12:47:17,430 | osnma.osnma_core.receiver_state     | INFO     | Received block 6 from DSM ID 10.
+2023-10-13 12:47:17,431 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([4, 0, 3, 5, 1, 6])
+
+2023-10-13 12:47:17,433 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72330 SVID 7 ---
+2023-10-13 12:47:17,434 | osnma.osnma_core.receiver_state     | INFO     | Received block 2 from DSM ID 10.
+2023-10-13 12:47:17,434 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([4, 0, 3, 5, 1, 6, 2])
+
+2023-10-13 12:47:17,435 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72330 SVID 18 ---
+2023-10-13 12:47:17,437 | osnma.osnma_core.receiver_state     | INFO     | Received block 5 from DSM ID 10.
+2023-10-13 12:47:17,437 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([4, 0, 3, 5, 1, 6, 2])
+
+2023-10-13 12:47:17,471 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72360 SVID 27 ---
+2023-10-13 12:47:17,471 | osnma.osnma_core.receiver_state     | INFO     | Received block 7 from DSM ID 10.
+2023-10-13 12:47:17,471 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([4, 0, 3, 5, 1, 6, 2, 7])
+
+2023-10-13 12:47:17,488 | osnma.osnma_core.receiver_state     | INFO     | KROOT with CID: 3 - PKID: 1 - GST0: WN 1253 TOW 72000
+	AUTHENTICATED
+
+2023-10-13 12:47:17,488 | osnma.osnma_core.receiver_state     | INFO     | NMAS is TEST.
+2023-10-13 12:47:17,488 | osnma.osnma_core.receiver_state     | INFO     | Chain in force is 3.
+2023-10-13 12:47:17,488 | osnma.osnma_core.receiver_state     | INFO     | CPKS is NOMINAL.
+
+2023-10-13 12:47:17,495 | osnma.osnma_core.receiver_state     | INFO     | Start status from WARM_START to STARTED.
+2023-10-13 12:47:17,504 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72240
+
+2023-10-13 12:47:17,507 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72240
+
+2023-10-13 12:47:17,511 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72240
+
+2023-10-13 12:47:17,516 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72270
+
+2023-10-13 12:47:17,520 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72270
+
+2023-10-13 12:47:17,522 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72270
+
+2023-10-13 12:47:17,533 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72300
+
+2023-10-13 12:47:17,539 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72300
+
+2023-10-13 12:47:17,547 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72300
+
+2023-10-13 12:47:17,555 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72330
+
+2023-10-13 12:47:17,562 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72330
+
+2023-10-13 12:47:17,569 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72330
+
+2023-10-13 12:47:17,579 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72360
+
+2023-10-13 12:47:17,582 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-10-13 12:47:17,584 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-10-13 12:47:17,586 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72270 TAGS ADDED: 0
+2023-10-13 12:47:17,586 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-10-13 12:47:17,586 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-10-13 12:47:17,592 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72300 TAGS ADDED: 0
+2023-10-13 12:47:17,593 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-10-13 12:47:17,594 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-10-13 12:47:17,595 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72330 TAGS ADDED: 0
+2023-10-13 12:47:17,595 | osnma.osnma_core.tag_verification   | INFO     | Tag verification:
+
+2023-10-13 12:47:17,612 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72270 TAG0
+2023-10-13 12:47:17,618 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72270 TAG0
+2023-10-13 12:47:17,624 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72270 TAG0
+2023-10-13 12:47:17,629 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72300 TAG0
+2023-10-13 12:47:17,633 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 4) PRN_A: 27 GST_SF: 1253 72300
+2023-10-13 12:47:17,636 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72300 TAG0
+2023-10-13 12:47:17,639 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 4) PRN_A: 7 GST_SF: 1253 72300
+2023-10-13 12:47:17,641 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72300 TAG0
+2023-10-13 12:47:17,645 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 4) PRN_A: 18 GST_SF: 1253 72300
+2023-10-13 12:47:17,648 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72330 TAG0
+2023-10-13 12:47:17,650 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72330 TAG0
+2023-10-13 12:47:17,652 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72330 TAG0
+2023-10-13 12:47:17,652 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-10-13 12:47:17,652 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-10-13 12:47:17,652 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-10-13 12:47:17,655 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-10-13 12:47:17,657 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72360 SVID 7 ---
+2023-10-13 12:47:17,658 | osnma.osnma_core.receiver_state     | INFO     | Received block 3 from DSM ID 10.
+2023-10-13 12:47:17,659 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([3])
+
+2023-10-13 12:47:17,663 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72360
+
+2023-10-13 12:47:17,664 | osnma.osnma_core.tag_verification   | INFO     | Tag verification:
+
+2023-10-13 12:47:17,664 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-10-13 12:47:17,666 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72360 SVID 18 ---
+2023-10-13 12:47:17,667 | osnma.osnma_core.receiver_state     | INFO     | Received block 6 from DSM ID 10.
+2023-10-13 12:47:17,668 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([3, 6])
+
+2023-10-13 12:47:17,671 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72360
+
+2023-10-13 12:47:17,671 | osnma.osnma_core.tag_verification   | INFO     | Tag verification:
+
+2023-10-13 12:47:17,675 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-10-13 12:47:17,713 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72390 SVID 27 ---
+2023-10-13 12:47:54,867 | osnma.osnma_core.receiver_state     | INFO     | Received block 0 from DSM ID 10.
+2023-10-13 12:47:54,868 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([3, 6, 0])
+
+2023-10-13 12:47:54,868 | osnma.osnma_core.receiver_state     | INFO     | DSM ID 10 number of blocks: 8
+
+2023-10-13 12:47:54,868 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72390
+
+2023-10-13 12:47:54,879 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72360 TAGS ADDED: 0
+2023-10-13 12:47:54,881 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72360 TAGS ADDED: 0
+2023-10-13 12:47:54,882 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72360 TAGS ADDED: 0
+2023-10-13 12:47:54,883 | osnma.osnma_core.tag_verification   | INFO     | Tag verification:
+
+2023-10-13 12:47:54,884 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72360 TAG0
+2023-10-13 12:47:54,887 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 4) PRN_A: 27 GST_SF: 1253 72360
+2023-10-13 12:47:54,888 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72360 TAG0
+2023-10-13 12:47:54,890 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 4) PRN_A: 7 GST_SF: 1253 72360
+2023-10-13 12:47:54,892 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72360 TAG0
+2023-10-13 12:47:54,894 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 4) PRN_A: 18 GST_SF: 1253 72360
+2023-10-13 12:47:54,895 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-10-13 12:47:54,896 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72360 
+		 Words 1, 2, 3, 4, 5 
+
+2023-10-13 12:47:54,898 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72360 
+		 Words 1, 2, 3, 4, 5 
+
+2023-10-13 12:47:54,899 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72360 
+		 Words 1, 2, 3, 4, 5 
+
+2023-10-13 12:47:54,900 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72360 
+		 Words 6, 10 
+
+2023-10-13 12:47:54,901 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72360 
+		 Words 6, 10 
+
+2023-10-13 12:47:54,902 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72360 
+		 Words 6, 10 
+
+2023-10-13 12:47:54,904 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72390 SVID 7 ---
+2023-10-13 12:47:54,905 | osnma.osnma_core.receiver_state     | INFO     | Received block 4 from DSM ID 10.
+2023-10-13 12:47:54,906 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([3, 6, 0, 4])
+
+2023-10-13 12:47:54,908 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72390
+
+2023-10-13 12:47:54,908 | osnma.osnma_core.tag_verification   | INFO     | Tag verification:
+
+2023-10-13 12:47:54,913 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-10-13 12:47:54,915 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72390 SVID 18 ---
+2023-10-13 12:47:54,917 | osnma.osnma_core.receiver_state     | INFO     | Received block 7 from DSM ID 10.
+2023-10-13 12:47:54,918 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([3, 6, 0, 4, 7])
+
+2023-10-13 12:47:54,926 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72390
+
+2023-10-13 12:47:54,927 | osnma.osnma_core.tag_verification   | INFO     | Tag verification:
+
+2023-10-13 12:47:54,927 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-10-13 12:47:54,964 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72420 SVID 27 ---
+2023-10-13 12:47:54,966 | osnma.osnma_core.receiver_state     | INFO     | Received block 1 from DSM ID 10.
+2023-10-13 12:47:54,967 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([3, 6, 0, 4, 7, 1])
+
+2023-10-13 12:47:54,974 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72420
+
+2023-10-13 12:47:54,974 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 27 GST_SF: 1253 72390 TAGS ADDED: 0
+2023-10-13 12:47:54,976 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 7 GST_SF: 1253 72390 TAGS ADDED: 0
+2023-10-13 12:47:54,977 | osnma.osnma_core.tag_verification   | INFO     | MACSEQ AUTHENTICATED
+	PRN_A: 18 GST_SF: 1253 72390 TAGS ADDED: 0
+2023-10-13 12:47:54,977 | osnma.osnma_core.tag_verification   | INFO     | Tag verification:
+
+2023-10-13 12:47:54,980 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(27, 0) PRN_A: 27 GST_SF: 1253 72390 TAG0
+2023-10-13 12:47:54,982 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(7, 0) PRN_A: 7 GST_SF: 1253 72390 TAG0
+2023-10-13 12:47:54,984 | osnma.osnma_core.tag_verification   | INFO     | Tag AUTHENTICATED
+	(18, 0) PRN_A: 18 GST_SF: 1253 72390 TAG0
+2023-10-13 12:47:54,984 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-10-13 12:47:54,985 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72390 
+		 Words 1, 2, 3, 4, 5 
+
+2023-10-13 12:47:54,986 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72390 
+		 Words 1, 2, 3, 4, 5 
+
+2023-10-13 12:47:54,987 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72390 
+		 Words 1, 2, 3, 4, 5 
+
+2023-10-13 12:47:54,989 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72420 SVID 7 ---
+2023-10-13 12:47:54,990 | osnma.osnma_core.receiver_state     | INFO     | Received block 5 from DSM ID 10.
+2023-10-13 12:47:54,990 | osnma.osnma_core.receiver_state     | INFO     | 	DSM ID 10 blocks: dict_keys([3, 6, 0, 4, 7, 1, 5])
+
+2023-10-13 12:47:55,000 | osnma.osnma_core.tesla_chain        | INFO     | Tesla Key Authenticated 1253 72420
+
+2023-10-13 12:47:55,001 | osnma.osnma_core.tag_verification   | INFO     | Tag verification:
+
+2023-10-13 12:47:55,001 | osnma.osnma_core.tag_verification   | INFO     | Data authenticated:
+
+2023-10-13 12:47:55,004 | osnma.receiver.receiver             | INFO     | --- SUBFRAME --- WN 1253 TOW 72420 SVID 18 ---

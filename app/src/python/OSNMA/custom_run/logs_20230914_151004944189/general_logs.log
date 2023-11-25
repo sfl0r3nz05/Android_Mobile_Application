@@ -1,0 +1,2036 @@
+2023-09-14 15:10:04,949 | osnma.cryptographic.dsm_pkr         | WARNING  | Cannot compute Padding length: Missing attribute NB_DP
+2023-09-14 15:10:05,092 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,092 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,092 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,108 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72360 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,108 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72360 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,108 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72360 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,124 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72360 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,125 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72360 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,126 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72360 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,150 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72390 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,150 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72390 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,150 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72390 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,183 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72420 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,191 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72420 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,193 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72420 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,195 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72420 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,197 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72420 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,197 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72420 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,229 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72450 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,230 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72450 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,231 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72450 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,262 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72480 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,263 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72480 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,263 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72480 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,264 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72480 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,265 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72480 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,266 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72480 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,300 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72510 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,300 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72510 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,300 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72510 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,331 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72540 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,331 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72540 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,331 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72540 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,331 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72540 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,331 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72540 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,331 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72540 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,379 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72570 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,381 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72570 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,382 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72570 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,414 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72600 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,414 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72600 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,414 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72600 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,414 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72600 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,414 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72600 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,414 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72600 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,414 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72300 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,414 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72300 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,414 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72300 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,460 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72630 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,463 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72630 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,463 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72630 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,463 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,463 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,463 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72330 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,495 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72660 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,497 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72660 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,498 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72660 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,498 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72660 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,499 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72660 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,500 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72660 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,500 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72360 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,500 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72360 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,500 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72360 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,532 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72690 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,532 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72690 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,532 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72690 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,541 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72390 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,543 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72390 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,546 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72390 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,583 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72720 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,583 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72720 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,583 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72720 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,583 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72720 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,583 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72720 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,583 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72720 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,583 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72420 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,583 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72420 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,583 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72420 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,630 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72750 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,631 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72750 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,632 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72750 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,633 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72450 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,633 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72450 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,633 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72450 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,682 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72780 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72780 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72780 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72780 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72780 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72780 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72480 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72480 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72480 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72780 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | FIRST AUTHENTICATED FIX 1253 72810
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | FIRST TOW 72247
+2023-09-14 15:10:05,683 | osnma.osnma_core.nav_data_manager   | INFO     | TTFAF 563
+2023-09-14 15:10:05,730 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72810 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,731 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72810 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,732 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72810 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,733 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72510 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,733 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72510 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,733 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72510 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,733 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72810 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,777 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72840 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,780 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72840 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,781 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72840 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,782 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72840 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,782 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72840 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,783 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72840 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,783 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72540 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,783 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72540 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,783 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72540 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,783 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72840 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,817 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72870 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,817 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72870 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,817 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72870 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,825 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72570 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,826 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72570 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,828 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72570 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,830 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72870 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,863 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72900 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,863 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72900 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,863 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72900 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,863 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72900 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,863 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72900 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,863 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72900 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,863 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72600 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,863 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72600 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,863 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72600 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,863 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72900 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,910 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72930 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,912 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72930 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,914 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72930 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,915 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72630 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,916 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72630 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,917 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72630 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,917 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72930 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,968 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72960 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,968 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72960 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,968 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72960 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,968 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-72960 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,976 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-72960 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,977 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-72960 
+		 Words 6, 10 
+
+2023-09-14 15:10:05,979 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72660 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,981 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72660 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,982 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72660 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:05,982 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72960 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,018 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72990 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,018 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72990 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,026 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72990 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,027 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72690 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,029 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72690 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,032 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72690 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,079 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73020 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,082 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73020 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,082 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73020 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,082 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73020 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,082 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-73020 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,082 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73020 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,082 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72720 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,082 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72720 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,082 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72720 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,082 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73020 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,135 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73050 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,135 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73050 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,135 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73050 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,135 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72750 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,135 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72750 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,135 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72750 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,181 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73080 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,181 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73080 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,181 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73080 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,181 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73080 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,181 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-73080 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,181 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73080 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,193 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72780 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,194 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72780 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,195 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72780 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,197 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73080 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,197 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72780 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,236 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73110 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,237 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73110 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,238 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73110 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,239 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72810 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,239 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72810 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,239 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72810 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,239 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72810 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,293 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73140 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,294 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73140 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,296 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73140 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,299 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73140 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,299 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-73140 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,299 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73140 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,299 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72840 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,299 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72840 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,299 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72840 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,299 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73140 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,334 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73170 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,334 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73170 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,334 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73170 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,334 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72870 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,334 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72870 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,334 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72870 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,334 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72870 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,385 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73200 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,385 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73200 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,385 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73200 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,385 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73200 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,385 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-73200 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,385 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73200 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,385 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72900 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,385 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72900 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,385 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72900 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,385 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73200 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,431 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73230 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,431 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73230 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,431 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73230 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,431 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72930 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,431 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72930 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,431 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72930 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,431 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72930 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,477 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73260 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,478 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73260 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,480 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73260 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,481 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73260 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,482 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-73260 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,482 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73260 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,482 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72960 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,482 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72960 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,482 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72960 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,482 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73260 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,515 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73290 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,515 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73290 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,515 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73290 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,515 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72990 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,527 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72990 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,529 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-72990 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,531 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-72990 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,565 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73320 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,565 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73320 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,565 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73320 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,565 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73320 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,565 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-73320 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,577 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73320 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,578 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73020 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,580 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73020 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,581 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73020 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,582 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73320 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,615 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73350 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,615 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73350 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,615 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73350 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,615 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73050 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,615 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73050 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,615 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73050 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,627 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73050 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73380 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73380 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73380 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73380 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-73380 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73380 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73080 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73080 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73080 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73380 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,713 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73410 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,713 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73410 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,713 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73410 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,713 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73110 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,713 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73110 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,713 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73110 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,713 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73110 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,749 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73440 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,749 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73440 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,749 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73440 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,749 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73440 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,749 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-73440 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,749 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73440 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,749 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73140 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,749 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73140 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,749 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73140 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,749 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73440 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,801 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73470 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,804 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73470 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,805 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73470 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,805 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73170 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,806 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73170 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,807 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73170 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,808 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73170 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,864 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73500 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,864 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73500 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,864 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73500 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,864 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73500 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,864 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-73500 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,864 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73500 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,864 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73200 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,864 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73200 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,864 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73200 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,864 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73500 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,899 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73530 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,899 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73530 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,899 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73530 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,899 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73230 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,899 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73230 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,899 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73230 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,899 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73230 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,949 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73560 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,949 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73560 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,949 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73560 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,949 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73560 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,949 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 7  
+		 GST 1253-72300  to  GST 1253-73560 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,949 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73560 
+		 Words 6, 10 
+
+2023-09-14 15:10:06,949 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73260 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,949 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73260 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,949 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73260 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:06,949 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73560 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,000 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73590 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,000 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73590 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,000 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73590 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,000 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73290 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,000 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73290 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,000 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73290 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,000 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73290 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,033 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73620 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,033 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73620 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,033 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73620 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,033 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73620 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,045 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73620 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,047 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73320 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,049 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73320 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,049 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73320 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,049 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73620 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,067 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73650 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,078 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73650 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,079 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73350 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,080 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73350 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,082 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73350 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,083 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73350 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,117 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73680 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,117 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73680 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,117 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73680 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,117 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73680 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,117 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73680 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,117 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73380 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,117 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73380 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,117 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73380 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,117 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73680 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,150 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73710 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,150 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73710 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,162 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73410 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,164 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73410 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,165 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73410 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,166 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73410 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,200 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73740 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,200 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73740 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,200 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73740 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,200 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73740 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,200 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73740 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,200 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73440 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,200 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73440 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,200 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73440 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,200 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73740 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,233 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73770 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,233 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73770 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,245 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73470 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,246 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73470 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,247 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73470 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,249 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73470 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,279 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73800 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,281 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73800 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,283 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73800 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,284 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73800 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,284 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73800 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,284 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73500 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,284 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73500 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,284 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73500 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,284 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73800 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,300 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73830 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,312 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73830 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,313 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73530 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,316 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73530 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,317 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73530 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,318 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73530 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,334 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73860 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,334 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73860 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,334 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73860 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,345 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73860 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,347 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73860 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,350 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73560 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,350 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73560 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,350 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73560 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,350 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73860 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,367 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73890 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,367 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73890 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,367 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73590 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,367 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73590 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,379 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73590 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,380 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73590 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,400 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73920 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,400 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73920 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,400 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73920 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,400 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73920 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,400 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73920 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,400 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73620 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,400 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73620 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,400 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73920 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,434 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73950 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,434 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73950 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,434 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73650 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,434 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73650 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,434 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73650 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,467 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73980 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,467 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73980 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,467 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73980 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,467 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-73980 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,479 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-73980 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,480 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73680 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,482 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73680 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,483 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-73980 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,514 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74010 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,515 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74010 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,517 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73710 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,517 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73710 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,517 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73710 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,551 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74040 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,551 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74040 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,551 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74040 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,551 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-74040 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,551 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-74040 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,551 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73740 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,551 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73740 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,551 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-74040 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,584 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74070 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,584 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74070 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,584 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73770 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,584 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73770 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,584 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73770 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,618 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74100 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,618 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74100 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,618 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74100 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,618 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-74100 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,618 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-74100 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,618 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73800 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,618 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73800 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,618 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-74100 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,663 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74130 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74130 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,665 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73830 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,667 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73830 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,668 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73830 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,683 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74160 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,698 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74160 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,698 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74160 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,699 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-74160 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,700 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-74160 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,700 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73860 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,700 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73860 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,700 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-74160 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,734 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74190 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,734 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74190 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,734 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73890 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,734 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73890 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,734 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73890 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,768 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74220 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,768 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74220 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,768 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74220 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,768 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-74220 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,768 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-74220 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,768 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73920 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,768 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73920 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,768 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-74220 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,801 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74250 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,801 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74250 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,801 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73950 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,801 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73950 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,801 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73950 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,835 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74280 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,835 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74280 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,835 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74280 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,835 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-74280 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,835 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-74280 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,835 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73980 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,835 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-73980 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,835 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-74280 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,882 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74310 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,884 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74310 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,885 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74010 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,886 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74010 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,887 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74010 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,917 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74340 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,917 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74340 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,917 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74340 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,917 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-74340 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,917 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-74340 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,917 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74040 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,917 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74040 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,917 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-74340 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,951 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74370 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,952 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74370 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,952 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74070 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,952 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74070 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,952 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74070 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,985 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74400 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,985 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 7 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74400 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,985 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74400 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,985 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 27  
+		 GST 1253-72300  to  GST 1253-74400 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,985 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 4 - Satellite 18  
+		 GST 1253-72300  to  GST 1253-74400 
+		 Words 6, 10 
+
+2023-09-14 15:10:07,985 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 27 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74100 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,985 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 12 - Satellite 18 - IOD 0b0001110111 
+		 GST 1253-72270  to  GST 1253-74100 
+		 Words 1, 2, 3, 4, 5 
+
+2023-09-14 15:10:07,985 | osnma.osnma_core.nav_data_manager   | INFO     | AUTHENTICATED: ADKD 0 - Satellite 21 - IOD 0b0001111000 
+		 GST 1253-72750  to  GST 1253-74400 
+		 Words 1, 2, 3, 4, 5 
+
