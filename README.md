@@ -74,3 +74,8 @@ Chaquopy is distributed as a plugin for Android’s Gradle-based build system.
         Python.start(new AndroidPlatform(context));
     }
     ```
+
+## To do
+
+1. Create the pipeline for GitHub.
+2. Bring OSNMA src code as submodule.
