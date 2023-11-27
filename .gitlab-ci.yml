@@ -1,27 +1,24 @@
 stages:
-# - container_creation
+- container_creation
 - build
 
-# container_creation:
-#   stage: container_creation
-#   tags:
-#     - s4g
-#   image:
-#     name: gcr.io/kaniko-project/executor:debug
-#     entrypoint: [""]
-#   script:
-#     - mkdir -p /kaniko/.docker
-#     - echo "{\"auths\":{\"${CI_REGISTRY}\":{\"auth\":\"$(printf "%s:%s" "${CI_REGISTRY_USER}" "${CI_REGISTRY_PASSWORD}" | base64 | tr -d '\n')\"}}}" > /kaniko/.docker/config.json
-#     - >-
-#       /kaniko/executor
-#       --context "${CI_PROJECT_DIR}/context"
-#       --dockerfile "${CI_PROJECT_DIR}/context/Dockerfile"
-#       --destination "${CI_REGISTRY_IMAGE}:${CI_COMMIT_SHORT_SHA}"
-# 
-# image: "${CI_REGISTRY_IMAGE}:${CI_COMMIT_SHORT_SHA}"
+container_creation:
+  stage: container_creation
+  tags:
+    - s4g
+  image:
+    name: gcr.io/kaniko-project/executor:debug
+    entrypoint: [""]
+  script:
+    - mkdir -p /kaniko/.docker
+    - echo "{\"auths\":{\"${CI_REGISTRY}\":{\"auth\":\"$(printf "%s:%s" "${CI_REGISTRY_USER}" "${CI_REGISTRY_PASSWORD}" | base64 | tr -d '\n')\"}}}" > /kaniko/.docker/config.json
+    - >-
+      /kaniko/executor
+      --context "${CI_PROJECT_DIR}/context"
+      --dockerfile "${CI_PROJECT_DIR}/context/Dockerfile"
+      --destination "${CI_REGISTRY_IMAGE}:${CI_COMMIT_SHORT_SHA}"
 
-#image: jangrewe/gitlab-ci-android
-image: sflorenz05/gitlab-ci-android:0.4
+image: "${CI_REGISTRY_IMAGE}:${CI_COMMIT_SHORT_SHA}" #image: sflorenz05/gitlab-ci-android:0.4
 
 before_script:
 - export GRADLE_USER_HOME=$(pwd)/.gradle
